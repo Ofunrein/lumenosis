@@ -1,0 +1,196 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b2_check green.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b2_check green.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b3_icon map.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b3_icon map.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b4_dark circle.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b4_dark circle.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b5_icon mail.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b5_icon mail.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b6_check orange.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b6_check orange.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b7_app screen 1.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b7_app screen 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886b9_app screen 4.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886b9_app screen 4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ba_app screen 3.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ba_app screen 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886bb_app screen 5.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886bb_app screen 5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886bc_app screen 6.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886bc_app screen 6.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886bd_icon 1.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886bd_icon 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886be_icon 4.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886be_icon 4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886bf_icon 2.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886bf_icon 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886c0_icon 3.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886c0_icon 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886c1_icon 5.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886c1_icon 5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ce_icon 7.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ce_icon 7.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886cf_icon 6.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886cf_icon 6.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d0_icon 8.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d0_icon 8.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d1_arrow.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d1_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d2_check blue.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d2_check blue.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d3_client avatar.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d3_client avatar.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d4_arrow 1.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d4_arrow 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d5_arrow 2.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d5_arrow 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d6_Favicon.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d6_Favicon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d7_Webclip.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d7_Webclip.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d8_circle.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d8_circle.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886d9_blue circle.webp
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886d9_blue circle.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ea_company 2.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ea_company 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886eb_company 3.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886eb_company 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ec_company 1.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ec_company 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ed_icon phone.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ed_icon phone.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7991f42421ae3cbd886ee_sign up.svg
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7991f42421ae3cbd886ee_sign up.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-1080.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-1600.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-2000.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-2600.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-3200.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-3200.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-500.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-800.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01.png
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\64b7994e5cf72d89bed0fbe7_Untitled-1 [Recovered]-01.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/css/unorthodox-ai.webflow.29ed2791c.css
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\css\unorthodox-ai.webflow.29ed2791c.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/64b7991e42421ae3cbd885f5/js/webflow.0630ea3ad.js
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\64b7991e42421ae3cbd885f5\js\webflow.0630ea3ad.js
+Content Type: text/javascript
+
+Uri: https://assets.calendly.com/assets/external/widget.js
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\assets\external\widget.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64b7991e42421ae3cbd885f5
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.unorthodoxai.co.uk/
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.unorthodoxai.co.uk/company
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\company.html
+Content Type: text/html
+
+Uri: https://www.unorthodoxai.co.uk/contact
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\contact.html
+Content Type: text/html
+
+Uri: https://www.unorthodoxai.co.uk/features
+File Name: C:\Users\ofunr\Downloads\5. Websites\www.unorthodoxai.co.uk\features.html
+Content Type: text/html
+
